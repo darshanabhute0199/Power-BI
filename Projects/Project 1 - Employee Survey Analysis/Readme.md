@@ -45,6 +45,7 @@ Key objectives of this analysis include:
 
 
 ## Entity- Relationship Diagram (Normalised dataset)
+![Employee Survey](https://github.com/user-attachments/assets/5cb295dc-7505-4b22-bdc7-b2521f31029b)
 
 
 ## Application
