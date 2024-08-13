@@ -41,6 +41,8 @@ Key objectives of this analysis include:
 
 
 ## Entity- Relationship Diagram (Normalised dataset)
+![ER - USA Christmas Sales](https://github.com/user-attachments/assets/28c2ec32-e752-4278-96ed-c7df699ac404)
+
 
 
 ## Application
