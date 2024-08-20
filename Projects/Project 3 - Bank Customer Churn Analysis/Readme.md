@@ -23,6 +23,7 @@
 
 
 ## Entity- Relationship Diagram (Normalised dataset)
+![Bank  Customer Churn Analysis](https://github.com/user-attachments/assets/8443e286-cbb1-49f6-870c-5746bc561ee9)
 
 
 ## Application
